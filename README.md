@@ -175,7 +175,7 @@ ICAT系統基於反饋理論，分為6個主要過程：
 ![](png/具有動態反饋資訊的基於目標之教育系統的製造系統、方法和物品-2.png)
 
 # [適性化輔導與選課建議系統 ADAPTIVE COUNSELING AND ELECTIVE RECOMMENDATION SYSTEM](https://gpss4.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTWI521463B)
-M
+
 
 **摘要**
 
